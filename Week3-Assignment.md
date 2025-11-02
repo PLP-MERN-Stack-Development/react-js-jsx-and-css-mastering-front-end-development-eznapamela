@@ -17,7 +17,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
   - `Card` component for displaying content in a boxed layout
   - `Navbar` component for site navigation
   - `Footer` component with links and copyright information
-- Implement a layout component that includes the Navbar and Footer
+  Implement a layout component that includes the Navbar and Footer
 - Use props to make components customizable and reusable
 
 ### Task 3: State Management and Hooks

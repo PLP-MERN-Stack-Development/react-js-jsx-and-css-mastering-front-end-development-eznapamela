@@ -1,0 +1,33 @@
+# Task Managing App (React + Vite + Tailwind)
+
+A simple and responsive task management app built with **React**, **Vite**, and **Tailwind CSS**.  
+Includes theme switching, API integration, and custom reusable UI components.
+
+
+## 🚀 Features
+- Add, delete, and mark tasks as complete ✅  
+- Fetch data from a public API (JSONPlaceholder) 🌐  
+- Dark/light mode toggle 🌗  
+- Fully responsive on mobile, tablet, and desktop 📱💻  
+- Reusable components with Tailwind and ShadCN UI  
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./vite-project/public/HomePage.png)
+
+### ✅ Task Manager
+![Task Manager](./vite-project/public/TaskManager.png)
+
+### 🌙 Dark Mode
+![Dark Mode](./vite-project/public/Toggle Button.png)
+
+## ⚙️ Installation & Run
+
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Run the app
+npm run dev
